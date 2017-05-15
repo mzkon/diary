@@ -1,4 +1,4 @@
 #### 1.  [Atom](https://atom.io/)
-* Plugin --[see](https://github.com/mzkon/diary/blob/master/Atom)
+* Plugin --[see](https://github.com/mzkon/diary/tree/master/Atom)
 * X:\Users\xx\.atom
 ---
