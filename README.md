@@ -1,24 +1,4 @@
->传说中的MakeDown
-***
-## 笔记
-* [雪茄](#Cigar)
-* [威士忌](#Whisky)
-***
-<h3 id="Cigar">雪茄</h3>
-***
-***
-***
-***
-***
-***
-***
-***
-***
-***
-
-***
-***
-***
-
-***
-<h3 id="Whisky">威士忌</h3>
+#### 1.  [Atom](https://atom.io/)
+* Plugin --[see](https://github.com/mzkon/diary/blob/master/Atom)
+* X:\Users\xx\.atom
+---
