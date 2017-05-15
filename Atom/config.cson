@@ -1,0 +1,26 @@
+"*":
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "one-dark-ui"
+      "seti-syntax"
+    ]
+  docblockr:
+    auto_add_method_tag: true
+  editor:
+    tabLength: 4
+    tabType: "hard"
+  "exception-reporting":
+    userId: "8eda62eb-c79f-4f72-8b25-7a2bfe5361e1"
+  "git-plus":
+    general: {}
+  "remote-sync":
+    autoHideLogPanel: true
+    configFileName: ".atom-sftp.json"
+  "seti-syntax":
+    dynamicColor: false
+    themeColor: "Steel"
+  "terminal-plus":
+    core: {}
+  welcome:
+    showOnStartup: false
